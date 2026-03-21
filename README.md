@@ -46,7 +46,6 @@ const jayvee = {
 **Other Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Tools**
@@ -61,7 +60,42 @@ const jayvee = {
 
 <div align="center">
 
-[![term-ai-debugger](https://github-readme-stats.vercel.app/api/pin/?username=jayvee2010&repo=term-ai-debugger&theme=tokyonight&hide_border=true)](https://github.com/jayvee2010/term-ai-debugger)
+### 🤖 Term-AI-Debugger
+#### *Your terminal finally talks back.*
+
+</div>
+
+> Most terminals are **silent** — when a command fails, you get a cryptic error and have to Google it.
+> **Term-AI-Debugger** changes that. It wraps your shell, intercepts failures, and uses **Gemini 2.0 Flash** to explain what went wrong and how to fix it — instantly.
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_2.0_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Shell](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+</div>
+
+**How it works:**
+
+| Step | What happens |
+|------|-------------|
+| 🔍 **Intercept** | Wraps your shell and captures exit codes + stderr on every command |
+| 🧠 **Analyze** | Sends the failed command + error to Gemini 2.0 Flash for reasoning |
+| ⚙️ **Reason** | Gemini identifies the exact mistake — NameError, missing dir, wrong syntax |
+| ✅ **Fix** | Prints a clean AI block with an explanation and the exact command to fix it |
+
+**Key features:**
+
+- 🐛 **Auto-debugging** — catches Python, Node.js, and Bash errors instantly
+- 💬 **Natural language commands** — type `ask create a new react app` and get the correct terminal syntax
+- 🔎 **Command explainer** — type `explain rm -rf` before running anything scary
+- ☁️ **Cloud-native brain** — backend hosted on Google Cloud Run for speed and scale
+
+<div align="center">
+
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayvee2010/term-ai-debugger)
 
 </div>
 
@@ -76,7 +110,6 @@ const jayvee = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayvee2010&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<!-- Activity Graph -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jayvee2010&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
