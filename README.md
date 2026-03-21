@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Jayvee+Shah+👋;Frontend+Dev+%2B+AI+Explorer+🤖;Building+cool+stuff+on+the+web+🌐;Currently+crafting+AI+Agents+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Jayvee+Shah+👋;Frontend+Dev+%2B+AI%2FML+Explorer+🤖;Building+AI+Agents+%26+Web+Apps+⚡;Always+learning%2C+always+shipping+🚀)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Visitor badge -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=jayvee2010&color=F97316&style=flat-square&label=Profile+Views)
 
 </div>
@@ -18,10 +16,11 @@
 const jayvee = {
   name: "Jayvee Shah",
   role: ["Frontend Developer", "AI/ML Enthusiast", "Student"],
-  currentlyBuilding: "AI Agents 🤖",
-  currentlyLearning: ["Web Development", "Machine Learning", "AI Systems"],
-  askMeAbout: ["React", "Python", "AI/ML", "Web Dev", "Java"],
-  reachMe: "linkedin.com/in/jayvee-shah-b113a0369"
+  currentlyBuilding: "AI Agents & smart web apps 🤖",
+  currentlyLearning: ["Web Development", "Machine Learning", "Data Science"],
+  languages: ["Python", "JavaScript", "TypeScript", "Java", "C++"],
+  askMeAbout: ["React", "Python", "AI/ML", "LeetCode", "Data Wrangling"],
+  funFact: "I debug with console.log and I'm not ashamed 😄",
 };
 ```
 
@@ -38,17 +37,33 @@ const jayvee = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-**AI / ML & Backend**
+**AI / ML & Data Science**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Other Languages**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**Tools & Platforms**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🌟 Featured Project
+
+<div align="center">
+
+[![term-ai-debugger](https://github-readme-stats.vercel.app/api/pin/?username=jayvee2010&repo=term-ai-debugger&theme=tokyonight&hide_border=true)](https://github.com/jayvee2010/term-ai-debugger)
+
+</div>
 
 ---
 
@@ -61,7 +76,8 @@ const jayvee = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayvee2010&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jayvee2010&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<!-- Activity Graph -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jayvee2010&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -69,10 +85,11 @@ const jayvee = {
 
 ## 🤖 What I'm Up To
 
-- 🌱 Deep-diving into **Web Development** — React, Next.js, and beyond
-- 🔬 Exploring **AI/ML** — building intelligent agents and automation tools
-- 💡 Experimenting with combining **frontend skills + AI** to build smart web apps
-- 📚 Always learning something new every day
+- 🔬 Building **AI agents** and exploring intelligent automation
+- 🌐 Sharpening **frontend skills** — React, Next.js, and beyond
+- 🐍 Practicing **data science** with Python, Pandas & NumPy
+- ☕ Grinding **LeetCode** in Java to level up problem-solving
+- 💡 Always looking to collaborate on interesting open source projects
 
 ---
 
