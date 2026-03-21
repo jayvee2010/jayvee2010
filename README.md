@@ -21,7 +21,6 @@ const jayvee = {
   currentlyBuilding: "AI Agents 🤖",
   currentlyLearning: ["Web Development", "Machine Learning", "AI Systems"],
   askMeAbout: ["React", "Python", "AI/ML", "Web Dev", "Java"],
-  funFact: "I debug with console.log and I'm not ashamed 😄",
   reachMe: "linkedin.com/in/jayvee-shah-b113a0369"
 };
 ```
