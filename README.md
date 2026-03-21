@@ -18,9 +18,8 @@ const jayvee = {
   role: ["Frontend Developer", "AI/ML Enthusiast", "Student"],
   currentlyBuilding: "AI Agents & smart web apps 🤖",
   currentlyLearning: ["Web Development", "Machine Learning", "Data Science"],
-  languages: ["Python", "JavaScript", "TypeScript", "Java", "C++"],
+  languages: ["Python", "JavaScript", "TypeScript", "Java", "C", "C++"],
   askMeAbout: ["React", "Python", "AI/ML", "LeetCode", "Data Wrangling"],
-  funFact: "I debug with console.log and I'm not ashamed 😄",
 };
 ```
 
@@ -46,6 +45,8 @@ const jayvee = {
 **Other Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Tools**
